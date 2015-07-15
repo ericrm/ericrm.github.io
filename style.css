@@ -8,6 +8,22 @@ body {
   text-align: center;
 }
 
+.opening p {
+  font-size: 8px;
+}
+
+.content p {
+  text-align: center;
+}
+
+.content-wall {
+  position: absolute;
+  bottom: 100;
+  width: 70%;
+  height: 100;
+  color: gray;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
