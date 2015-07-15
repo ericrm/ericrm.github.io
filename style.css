@@ -1,4 +1,9 @@
 body {
+  font-family: monospace;
+  background-image: url('file://C:/Users/Eric (new)/Documents/GitHub/third/background.jpg');
+  color: white;
+}
+
+.opening {
   text-align: center;
-  font-family: sans-serif;
 }
